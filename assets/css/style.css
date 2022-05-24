@@ -1359,6 +1359,9 @@ section {
 /*--------------------------------------------------------------
 # Contact
 --------------------------------------------------------------*/
+.contact {
+  background: #fafbff;
+}
 .contact .info-box {
   color: #444444;
   background: #fafbff;
@@ -1382,7 +1385,7 @@ section {
   margin-bottom: 0;
 }
 .contact .php-email-form {
-  background: #fafbff;
+  /* background: #fafbff; */
   padding: 30px;
   height: 100%;
 }
