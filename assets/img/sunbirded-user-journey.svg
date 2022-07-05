@@ -63,7 +63,7 @@
 				<g>
 					<g>
 						<rect x="176.65" y="273.42" class="st1" width="104.68" height="68.68"/>
-						<text transform="matrix(1 0 0 1 176.6505 280.7168)"><tspan x="0" y="0" class="st2 st3 st4">Lorem ipsum dolor sit </tspan><tspan x="0" y="12" class="st2 st3 st4">amet, consectetuer </tspan><tspan x="0" y="24" class="st2 st3 st4">adipiscing elit, sed </tspan><tspan x="0" y="36" class="st2 st3 st4">diam nonummy </tspan><tspan x="0" y="48" class="st2 st3 st4">commodo consequat.</tspan></text>
+						<text transform="matrix(1 0 0 1 176.6505 280.7168)"><tspan x="0" y="0" class="st2 st3 st4">Easy discovery of content </tspan><tspan x="0" y="12" class="st2 st3 st4">via browsing, QR code (phygital), </tspan><tspan x="0" y="24" class="st2 st3 st4">chatbot and free text search</tspan></text>
 					</g>
 					<g>
 						<text transform="matrix(1 0 0 1 175.7633 229.7031)"><tspan x="0" y="0" class="st5 st6 st7 st8">Discovery of </tspan><tspan x="0" y="18" class="st5 st6 st7 st8">content</tspan></text>
@@ -1767,7 +1767,7 @@ lpaWlpaWllah/r8AAwBn9NVQxW5+dgAAAABJRU5ErkJggg==" transform="matrix(0.24 0 0 0.2
 				<g>
 					<g>
 						<rect x="519.97" y="273.42" class="st1" width="114.03" height="68.68"/>
-						<text transform="matrix(1 0 0 1 519.9743 280.7168)"><tspan x="0" y="0" class="st2 st3 st4">Lorem ipsum dolor sit </tspan><tspan x="0" y="12" class="st2 st3 st4">amet, consectetuer </tspan><tspan x="0" y="24" class="st2 st3 st4">adipiscing elit, sed diam </tspan><tspan x="0" y="36" class="st2 st3 st4">nonummy commodo </tspan><tspan x="0" y="48" class="st2 st3 st4">consequat.</tspan></text>
+						<text transform="matrix(1 0 0 1 519.9743 280.7168)"><tspan x="0" y="0" class="st2 st3 st4">Track progress of users </tspan><tspan x="0" y="12" class="st2 st3 st4">using reports and </tspan><tspan x="0" y="24" class="st2 st3 st4">reward them with </tspan><tspan x="0" y="36" class="st2 st3 st4">e-credentials. </tspan></text>
 					</g>
 					<g>
 						<text transform="matrix(1 0 0 1 519.0866 229.7031)"><tspan x="0" y="0" class="st14 st6 st7 st8">Track progress &amp; </tspan><tspan x="0" y="18" class="st14 st6 st7 st8">Earn credentials</tspan></text>
@@ -3673,7 +3673,7 @@ gg==" transform="matrix(0.24 0 0 0.24 517.1067 117.6)">
 				<g>
 					<g>
 						<rect x="351.5" y="188.7" class="st1" width="119.17" height="68.68"/>
-						<text transform="matrix(1 0 0 1 351.4977 195.999)"><tspan x="0" y="0" class="st2 st3 st4">Lorem ipsum dolor sit </tspan><tspan x="0" y="12" class="st2 st3 st4">amet, consectetuer </tspan><tspan x="0" y="24" class="st2 st3 st4">adipiscing elit, sed diam </tspan><tspan x="0" y="36" class="st2 st3 st4">nonummy commodo </tspan><tspan x="0" y="48" class="st2 st3 st4">consequat.</tspan></text>
+						<text transform="matrix(1 0 0 1 351.4977 195.999)"><tspan x="0" y="0" class="st2 st3 st4"> Allow users to play content </tspan><tspan x="0" y="12" class="st2 st3 st4">such as document (pdf, epub), </tspan><tspan x="0" y="24" class="st2 st3 st4">video (mp4), audio (mp3), and </tspan><tspan x="0" y="36" class="st2 st3 st4">interactive (html, h5p, ecml, quml).</tspan></text>
 					</g>
 					<g>
 						<text transform="matrix(1 0 0 1 350.6105 164.9844)" class="st19 st6 st7 st8">Play content</text>
@@ -5544,7 +5544,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAALh1/wswAHUOc5uRBieDAAAAAElFTkSuQmCC" transform="matrix(
 				<g>
 					<g>
 						<rect x="696.57" y="188.7" class="st1" width="111.87" height="68.68"/>
-						<text transform="matrix(1 0 0 1 696.571 195.999)"><tspan x="0" y="0" class="st2 st3 st4">Lorem ipsum dolor sit </tspan><tspan x="0" y="12" class="st2 st3 st4">amet, consectetuer </tspan><tspan x="0" y="24" class="st2 st3 st4">adipiscing elit, sed </tspan><tspan x="0" y="36" class="st2 st3 st4">diam nonummy com</tspan><tspan x="96.93" y="36" class="st2 st3 st4">-</tspan><tspan x="0" y="48" class="st2 st3 st4">modo consequat.</tspan></text>
+						<text transform="matrix(1 0 0 1 696.571 195.999)"><tspan x="0" y="0" class="st2 st3 st4"> Enable interactions using </tspan><tspan x="0" y="12" class="st2 st3 st4">a discussion forum, groups, </tspan><tspan x="0" y="24" class="st2 st3 st4">and notifications. </tspan></text>
 					</g>
 					<g>
 						<text transform="matrix(1 0 0 1 695.6833 144.9844)"><tspan x="0" y="0" class="st24 st6 st7 st8">Interacting / </tspan><tspan x="0" y="18" class="st24 st6 st7 st8">Collaborating</tspan></text>
@@ -7398,9 +7398,11 @@ AAAAAAAAAAAAAAAAAAAAAAAA3JH/CTAAH/w9jpQ7wF4AAAAASUVORK5CYII=" transform="matrix(
 				</g>
 				<g>
 					<rect x="7.69" y="188.7" class="st1" width="146.98" height="68.68"/>
-					<text transform="matrix(1 0 0 1 7.6915 195.999)"><tspan x="0" y="0" class="st2 st3 st4">Lorem ipsum dolor sit amet, </tspan><tspan x="0" y="12" class="st2 st3 st4">consectetuer adipiscing elit, </tspan><tspan x="0" y="24" class="st2 st3 st4">sed diam nonummy commodo </tspan><tspan x="0" y="36" class="st2 st3 st4">consequat.</tspan></text>
+					<text transform="matrix(1 0 0 1 7.6915 195.999)"><tspan x="0" y="0" class="st2 st3 st4">Onboard users as guests  </tspan><tspan x="0" y="12" class="st2 st3 st4"> or logged in.Enable  </tspan><tspan x="0" y="24" class="st2 st3 st4">multiple users on the </tspan>
+					<tspan x="0" y="36" class="st2 st3 st4">same device </tspan>
+					</text>
 					<g>
-						<text transform="matrix(1 0 0 1 7.2868 144.9844)"><tspan x="0" y="0" class="st29 st6 st7 st8">Onboarding of</tspan><tspan x="0" y="18" class="st29 st6 st7 st8">users</tspan></text>
+						<text transform="matrix(1 0 0 1 7.2868 144.9844)"><tspan x="0" y="0" class="st29 st6 st7 st8">Onboarding of</tspan><tspan x="0" y="18" class="st29 st6 st7 st8">user</tspan></text>
 					</g>
 					<g>
 						<g>
