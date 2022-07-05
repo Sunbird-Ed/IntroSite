@@ -21,7 +21,7 @@
   --mat-pink:#E91E63;
   --mat-indigo:#3F51B5;
   --mat-cyan:#00BCD4;
-  --mat-yellow:#FFEB3B;
+  --mat-lime:#827717;
   --mat-brown:#795548;
   --mat-blue-grey:#607D8B;
   --mat-teal:#009688;
@@ -828,18 +828,18 @@ section {
 .services .service-box.cyan:hover {
   background: var(--mat-cyan);
 }
-.services .service-box.yellow {
-  border-bottom: 3px solid var(--mat-yellow);
+.services .service-box.lime {
+  border-bottom: 3px solid var(--mat-lime);
 }
-.services .service-box.yellow .icon {
-  color: var(--mat-yellow);
-  background: #FFF9C4;
+.services .service-box.lime .icon {
+  color: var(--mat-lime);
+  background: #F0F4C3;
 }
-.services .service-box.yellow .read-more {
-  color: var(--mat-yellow);
+.services .service-box.lime .read-more {
+  color: var(--mat-lime);
 }
-.services .service-box.yellow:hover {
-  background: var(--mat-yellow);
+.services .service-box.lime:hover {
+  background: var(--mat-lime);
 }
 .services .service-box.brown {
   border-bottom: 3px solid var(--mat-brown);
