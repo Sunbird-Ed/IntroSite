@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="902" viewBox="0 0 1920 902">
+  <defs>
+    <filter id="Path_1" x="440.883" y="245.82" width="418.709" height="473.949" filterUnits="userSpaceOnUse">
+      <feOffset dx="-5" dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_2" x="388.358" y="409.206" width="475.643" height="409.862" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_1-2" x="456.43" y="238.331" width="410.994" height="474.552" filterUnits="userSpaceOnUse">
+      <feOffset dx="-5" dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_2-2" x="394.769" y="405.164" width="477.069" height="401.385" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Custom_Size_1">
+      <rect width="1920" height="902"/>
+    </clipPath>
+  </defs>
+  <g id="Custom_Size_1" data-name="Custom Size – 1" clip-path="url(#clip-Custom_Size_1)">
+    <g id="Group_15" data-name="Group 15" transform="translate(1360.556 360.431) rotate(-78)" opacity="0.15">
+      <path id="Path_1-3" data-name="Path 1" d="M49.853,0l161.1,384.6L0,192.462Z" transform="translate(188.049 0)"/>
+      <path id="Path_2-3" data-name="Path 2" d="M0,65.823,398.569,191.8,187.979,0Z" transform="translate(0 192.389)"/>
+    </g>
+    <g id="Group_14" data-name="Group 14" transform="translate(1063.184 559.892) rotate(-78)" opacity="0.15">
+      <path id="Path_1-4" data-name="Path 1" d="M49.853,0l161.1,384.6L0,192.462Z" transform="translate(188.049 0)"/>
+      <path id="Path_2-4" data-name="Path 2" d="M0,65.823,398.569,191.8,187.979,0Z" transform="translate(0 192.389)"/>
+    </g>
+    <g id="Group_13" data-name="Group 13" transform="matrix(0.848, -0.53, 0.53, 0.848, 304.408, 467.261)" opacity="0.15">
+      <g transform="matrix(0.85, 0.53, -0.53, 0.85, -10.54, -557.57)" filter="url(#Path_1)">
+        <path id="Path_1-5" data-name="Path 1" d="M49.853,0l161.1,384.6L0,192.462Z" transform="matrix(0.85, -0.53, 0.53, 0.85, 463.88, 367.61)"/>
+      </g>
+      <g transform="matrix(0.85, 0.53, -0.53, 0.85, -10.54, -557.57)" filter="url(#Path_2)">
+        <path id="Path_2-5" data-name="Path 2" d="M0,65.823,398.569,191.8,187.979,0Z" transform="matrix(0.85, -0.53, 0.53, 0.85, 406.36, 630.42)"/>
+      </g>
+    </g>
+    <g id="Group_12" data-name="Group 12" transform="matrix(0.358, -0.934, 0.934, 0.358, 715.898, 661.698)" opacity="0.15">
+      <path id="Path_1-6" data-name="Path 1" d="M49.853,0l161.1,384.6L0,192.462Z" transform="translate(188.049 0)"/>
+      <path id="Path_2-6" data-name="Path 2" d="M0,65.823,398.569,191.8,187.979,0Z" transform="translate(0 192.389)"/>
+    </g>
+    <g id="Group_11" data-name="Group 11" transform="translate(57.225 116.201) rotate(-3)" opacity="0.15">
+      <path id="Path_1-7" data-name="Path 1" d="M382.718,1272.55l161.1,384.6L332.865,1465.012Z" transform="translate(-144.815 -1272.55)" fill="#0d0d0d"/>
+      <path id="Path_2-7" data-name="Path 2" d="M122.285,1553.813l398.569,125.974-210.59-191.8Z" transform="translate(-122.285 -1295.601)" fill="#0d0d0d"/>
+    </g>
+    <g id="Group_6" data-name="Group 6" transform="translate(77.016 95.496)">
+      <path id="Path_1-8" data-name="Path 1" d="M382.718,1272.55l161.1,384.6L332.865,1465.012Z" transform="translate(-144.815 -1272.55)" fill="#fddb31"/>
+      <path id="Path_2-8" data-name="Path 2" d="M122.285,1553.813l398.569,125.974-210.59-191.8Z" transform="translate(-122.285 -1295.601)" fill="#f9bd2c"/>
+    </g>
+    <g id="Group_7" data-name="Group 7" transform="translate(316.575 447.835) rotate(-30)">
+      <g transform="matrix(0.87, 0.5, -0.5, 0.87, -50.24, -546.12)" filter="url(#Path_1-2)">
+        <path id="Path_1-9" data-name="Path 1" d="M49.853,0l161.1,384.6L0,192.462Z" transform="translate(479.43 353.81) rotate(-30)" fill="#188dc0"/>
+      </g>
+      <g transform="matrix(0.87, 0.5, -0.5, 0.87, -50.24, -546.12)" filter="url(#Path_2-2)">
+        <path id="Path_2-9" data-name="Path 2" d="M0,65.823,398.569,191.8,187.979,0Z" transform="translate(412.77 614.45) rotate(-30)" fill="#0e62ae"/>
+      </g>
+    </g>
+    <g id="Group_8" data-name="Group 8" transform="translate(709.101 632.4) rotate(-66)">
+      <path id="Path_1-10" data-name="Path 1" d="M49.853,0l161.1,384.6L0,192.462Z" transform="translate(188.049 0)" fill="#753481"/>
+      <path id="Path_2-10" data-name="Path 2" d="M0,65.823,398.569,191.8,187.979,0Z" transform="translate(0 192.389)" fill="#4f3275"/>
+    </g>
+    <g id="Group_9" data-name="Group 9" transform="translate(1057.909 538.786) rotate(-76)">
+      <path id="Path_1-11" data-name="Path 1" d="M49.853,0l161.1,384.6L0,192.462Z" transform="translate(188.049 0)" fill="#fc395a"/>
+      <path id="Path_2-11" data-name="Path 2" d="M0,65.823,398.569,191.8,187.979,0Z" transform="translate(0 192.389)" fill="#be3759"/>
+    </g>
+    <g id="Group_10" data-name="Group 10" transform="translate(1355.28 342.324) rotate(-76)">
+      <path id="Path_1-12" data-name="Path 1" d="M49.853,0l161.1,384.6L0,192.462Z" transform="translate(188.049 0)" fill="#93c331"/>
+      <path id="Path_2-12" data-name="Path 2" d="M0,65.823,398.569,191.8,187.979,0Z" transform="translate(0 192.389)" fill="#50b644"/>
+    </g>
+    <text id="Create_Organization" data-name="Create 
+Organization" transform="translate(165 479)" fill="#f9bd2c" font-size="32" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="0" y="0">Create </tspan><tspan x="0" y="40">Organization</tspan></text>
+    <text id="Onboard_Org_Users" data-name="Onboard Org 
+Users" transform="translate(537 733)" fill="#0e62ae" font-size="32" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="0" y="0">Onboard Org </tspan><tspan x="0" y="40">Users</tspan></text>
+    <text id="Identify_Taxonomy_Framework" data-name="Identify Taxonomy 
+Framework" transform="translate(909 794)" fill="#4f3275" font-size="32" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="0" y="0">Identify Taxonomy </tspan><tspan x="0" y="40">Framework</tspan></text>
+    <text id="Create_Content" data-name="Create
+Content" transform="translate(1293 652)" fill="#be3759" font-size="32" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="0" y="0">Create</tspan><tspan x="0" y="40">Content</tspan></text>
+    <text id="Distribute_Content_using_Consumption_Channels" data-name="Distribute Content 
+using Consumption 
+Channels" transform="translate(1577 465)" fill="#50b644" font-size="32" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="0" y="0">Distribute Content </tspan><tspan x="0" y="40">using Consumption </tspan><tspan x="0" y="80">Channels</tspan></text>
+    <text id="_01" data-name="01" transform="translate(75 519)" fill="#f9bd2c" font-size="86" font-family="OpenSans-Semibold, Open Sans" font-weight="600" letter-spacing="-0.1em"><tspan x="0" y="0">01</tspan></text>
+    <text id="_02" data-name="02" transform="translate(437 773)" fill="#0e62ae" font-size="86" font-family="OpenSans-Semibold, Open Sans" font-weight="600" letter-spacing="-0.1em"><tspan x="0" y="0">02</tspan></text>
+    <text id="_03" data-name="03" transform="translate(809 835)" fill="#4f3275" font-size="86" font-family="OpenSans-Semibold, Open Sans" font-weight="600" letter-spacing="-0.1em"><tspan x="0" y="0">03</tspan></text>
+    <text id="_04" data-name="04" transform="translate(1192 689)" fill="#be3759" font-size="86" font-family="OpenSans-Semibold, Open Sans" font-weight="600" letter-spacing="-0.1em"><tspan x="0" y="0">04</tspan></text>
+    <text id="_05" data-name="05" transform="translate(1477 503)" fill="#50b644" font-size="86" font-family="OpenSans-Semibold, Open Sans" font-weight="600" letter-spacing="-0.1em"><tspan x="0" y="0">05</tspan></text>
+  </g>
+</svg>
