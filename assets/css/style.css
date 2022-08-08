@@ -2136,3 +2136,12 @@ section {
 .hide{
   display: none;
 }
+.list-section{
+  margin-left: 22px;
+}
+.list-content{
+  padding-bottom: 10px;
+}
+.img-usecase{
+  height: 130px;
+}
