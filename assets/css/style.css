@@ -2137,11 +2137,11 @@ section {
   display: none;
 }
 .list-section{
-  margin-left: 22px;
+  margin-left: 1.375rem;
 }
 .list-content{
-  padding-bottom: 10px;
+  padding-bottom: 0.625rem;
 }
 .img-usecase{
-  height: 130px;
+  height: 8.125rem;
 }
