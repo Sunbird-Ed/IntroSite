@@ -529,15 +529,19 @@ section {
   height: 100%;
 }
 .values .box img {
-  padding: 30px 50px;
+  padding: 1.5rem;
   transition: 0.5s;
   transform: scale(1.1);
 }
 .values .box h3 {
-  font-size: 24px;
+  font-size: 1.5rem;
   color: #012970;
   font-weight: 700;
-  margin-bottom: 18px;
+  margin-bottom: 0.5rem;
+  min-height: 3.75rem;
+}
+.values .box p {
+  margin-bottom: 0;
 }
 .values .box:hover {
   box-shadow: 0px 0 30px rgba(1, 41, 112, 0.08);
@@ -2144,4 +2148,22 @@ section {
 }
 .img-usecase{
   height: 8.125rem;
+}
+
+.ellipsis {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.ellipsis2 {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.ellipsis3 {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
 }
